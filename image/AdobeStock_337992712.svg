@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1333" height="437" viewBox="0 0 1333 437">
+  <defs>
+    <pattern id="pattern" width="1" height="1" viewBox="-650.678 128.568 1954.719 640.819">
+      <image preserveAspectRatio="xMidYMid slice" width="1333" height="889.633" xlink:href="AdobeStock_337992712-image.jpg"/>
+    </pattern>
+  </defs>
+  <rect id="AdobeStock_337992712" width="1333" height="437" fill="url(#pattern)"/>
+</svg>
